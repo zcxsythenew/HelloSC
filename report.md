@@ -8,7 +8,7 @@ Windows 10 18362.10019
 
 VMware Workstation 15 Pro
 
-Ubuntu Desktop 19.04
+Ubuntu Server 19.04
 
 ## 实验过程和结果
 
@@ -26,7 +26,7 @@ Ubuntu Desktop 19.04
 
 ![](images/image3.png)
 
-顺利安装 Ubuntu Desktop 并升级到 Eoan Ermine (development branch) 版本之后，可在主机上通过ssh远程连接至虚拟机，如下图所示：
+顺利安装 Ubuntu Server 并升级到 Eoan Ermine (development branch) 版本之后，可在主机上通过ssh远程连接至虚拟机，如下图所示：
 
 ![](images/image4.png)
 
